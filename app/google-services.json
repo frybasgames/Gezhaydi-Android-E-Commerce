@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477539207683",
+    "firebase_url": "https://gezhaydi.firebaseio.com",
+    "project_id": "gezhaydi",
+    "storage_bucket": "gezhaydi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477539207683:android:dc46990b409710eeba5c36",
+        "android_client_info": {
+          "package_name": "com.med.gezhaydiproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477539207683-tn26b5cnp4lr7sdj51mca3opo7ivu103.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEK0jKDnjfttRBsyPctGnVvOTn9X2ITk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477539207683-tn26b5cnp4lr7sdj51mca3opo7ivu103.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

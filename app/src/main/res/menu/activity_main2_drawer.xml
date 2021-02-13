@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_oneriler"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Öneriler" />
+        <item
+            android:id="@+id/nav_gecmis"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gezi Geçmişi" />
+        <item
+            android:id="@+id/nav_favori"
+            android:icon="@drawable/heart"
+            android:title="Favoriler" />
+
+        <item
+            android:id="@+id/nav_turlar"
+            android:icon="@mipmap/logo"
+            android:title="Tüm Turlar" />
+        <item
+            android:id="@+id/nav_hesap"
+            android:icon="@drawable/user"
+            android:title="Hesabım" />
+        <item
+            android:id="@+id/nav_ayar"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ayarlar" />
+
+                <item
+                    android:id="@+id/nav_paylas"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Paylaş" />
+                <item
+                    android:id="@+id/nav_hakkimizda"
+                    android:icon="@mipmap/logo"
+                    android:title="Hakkimizda" />
+                <item
+                    android:id="@+id/nav_sign_out"
+                    android:icon="@mipmap/custom_error_icon"
+                    android:title="Çıkış Yap" />
+
+
+
+
+
+    </group>
+
+
+
+</menu>
